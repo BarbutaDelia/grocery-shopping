@@ -1,0 +1,30 @@
+[
+    {
+        "intrebare":"Când au devenit alimentele bio cunoscute?",
+        "variante":[
+            "1900",
+            "1940",
+            "1960",
+            "1970"
+        ],
+        "corect":1
+    },
+    {
+        "intrebare":"Se pot utiliza pesticide în producția alimentelor bio?",
+        "variante":[
+            "Nu",
+            "Da, dacă acestea nu sunt sintetice",
+            "Da"
+        ],
+        "corect":1
+    },
+    {
+        "intrebare":"Ce reprezintă efectul Halo?",
+        "variante":[
+            "Efectul de luminare a unei suprafețe",
+            "Tendința unei persoane de a consumă alimente pe care le cunoaște dintr-un context anterior",
+            "Efectul prin care percepția unei persoane este afectată de credințele sale"
+        ],
+        "corect":2
+    }
+]

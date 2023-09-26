@@ -1,0 +1,6 @@
+[
+    {"utilizator": "delia", "parola": "delia", "nume": "Barbuta", "prenume": "Delia", "tip": "admin"},
+    {"utilizator": "gabi", "parola": "gabi", "nume": "Scinteie", "prenume": "Gabriel", "tip": "user"}, 
+    {"utilizator": "ioana", "parola": "priut", "nume": "Prioteasa", "prenume": "Ioana", "tip": "user"},
+    {"utilizator":"pw","parola":"pw", "nume": "pw", "prenume": "pw", "tip": "user"}
+]   
